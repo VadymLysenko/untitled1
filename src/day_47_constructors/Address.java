@@ -8,6 +8,23 @@ public class Address {
     private String zipCode;
     private String country = "USA";
 
+    //constructor
+    public Address() {
+
+        System.out.println("Address constructor");
+        street = "123 unknown st";
+        city = "Unknown";
+        state = "Unknown";
+        zipCode = "0000";
+    }
+    public Address(String street, String city, String state, String zipCode) {
+        this.street=street;
+        this.city=city;
+        this.state=state;
+        this.zipCode=zipCode;
+    }
+
+
     @Override
     public String toString() {
         return street + ", " + city + ", " + state + " " + zipCode;
@@ -18,6 +35,9 @@ public class Address {
     }
 
     public void setStreet(String street) {
+        if(street.isEmpty() || street.length() > 50) {
+
+        }
         this.street = street;
     }
 
