@@ -1,0 +1,246 @@
+Index: day_49_static/StaticMethods.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package day_49_static;\n\npublic class StaticMethods {\n\n    int num = 10;\n    static int count = 5;\n\n    public static void displayMessage(String message) {\n\n        System.out.println(\"message: \" + message);\n        //System.out.println(\"num = \" + num); // num is instance variable\n        System.out.println(\"count = \" + count);// count is static variable\n    }\n\n    public static void anotherStaticMethod() {\n\n        System.out.println(\"another static method\");\n        displayMessage(\"wooden spoon\");\n    }\n\n    public void instanceMethod() {\n        System.out.println(\"instanceMethod\");\n        System.out.println(\"Num = \" + num);\n        System.out.println(\"Count = \" + count);\n        displayMessage(\"hello from instanceMethod\");\n    }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/day_49_static/StaticMethods.java b/day_49_static/StaticMethods.java
+--- a/day_49_static/StaticMethods.java	(revision 2f40368232138836b4c24793130d00758d326e69)
++++ b/day_49_static/StaticMethods.java	(date 1622597335348)
+@@ -3,25 +3,9 @@
+ public class StaticMethods {
+ 
+     int num = 10;
+-    static int count = 5;
+ 
+     public static void displayMessage(String message) {
+ 
+         System.out.println("message: " + message);
+-        //System.out.println("num = " + num); // num is instance variable
+-        System.out.println("count = " + count);// count is static variable
+-    }
+-
+-    public static void anotherStaticMethod() {
+-
+-        System.out.println("another static method");
+-        displayMessage("wooden spoon");
+-    }
+-
+-    public void instanceMethod() {
+-        System.out.println("instanceMethod");
+-        System.out.println("Num = " + num);
+-        System.out.println("Count = " + count);
+-        displayMessage("hello from instanceMethod");
+     }
+ }
+Index: .idea/.gitignore
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+deleted file mode 100644
+--- a/.idea/.gitignore	(revision 2f40368232138836b4c24793130d00758d326e69)
++++ /dev/null	(revision 2f40368232138836b4c24793130d00758d326e69)
+@@ -1,8 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+-# Datasource local storage ignored files
+-/dataSources/
+-/dataSources.local.xml
+-# Editor-based HTTP Client requests
+-/httpRequests/
+Index: .idea/modules.xml
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+deleted file mode 100644
+--- a/.idea/modules.xml	(revision 2f40368232138836b4c24793130d00758d326e69)
++++ /dev/null	(revision 2f40368232138836b4c24793130d00758d326e69)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+deleted file mode 100644
+--- a/.idea/vcs.xml	(revision 2f40368232138836b4c24793130d00758d326e69)
++++ /dev/null	(revision 2f40368232138836b4c24793130d00758d326e69)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+-    <mapping directory="$PROJECT_DIR$/JavaProject" vcs="Git" />
+-    <mapping directory="$PROJECT_DIR$/untitled" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+deleted file mode 100644
+--- a/.idea/misc.xml	(revision 2f40368232138836b4c24793130d00758d326e69)
++++ /dev/null	(revision 2f40368232138836b4c24793130d00758d326e69)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="openjdk-15" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: day_49_static/StaticTest.java
+===================================================================
+diff --git a/day_49_static/StaticTest.java b/day_49_static/StaticTest.java
+deleted file mode 100644
+--- a/day_49_static/StaticTest.java	(revision 2f40368232138836b4c24793130d00758d326e69)
++++ /dev/null	(revision 2f40368232138836b4c24793130d00758d326e69)
+@@ -1,13 +0,0 @@
+-package day_49_static;
+-
+-public class StaticTest {
+-    static String word = "java";
+-
+-    public static void main(String[] args) {
+-        StaticMethods.displayMessage("Wooden spoon");
+-        StaticMethods stm = new StaticMethods();
+-        stm.instanceMethod();
+-
+-        System.out.println(word);
+-    }
+-}
+Index: day_49_static/StaticVariables.java
+===================================================================
+diff --git a/day_49_static/StaticVariables.java b/day_49_static/StaticVariables.java
+deleted file mode 100644
+--- a/day_49_static/StaticVariables.java	(revision 2f40368232138836b4c24793130d00758d326e69)
++++ /dev/null	(revision 2f40368232138836b4c24793130d00758d326e69)
+@@ -1,5 +0,0 @@
+-package day_49_static;
+-
+-public class StaticVariables {
+-
+-}
+Index: OfficeHourss/Practice_04_21_2021/ZombieAttack2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package OfficeHourss.Practice_04_21_2021;\n\n\n\nimport java.util.Arrays;\n\npublic class ZombieAttack2 {\n    public static void main(String[] args) {\n\n        int [] inhabitants = {3, 6, 0, 4, 3, 2, 7, 0};\n        int days = 0;\n        System.out.println(\"Day: \" + days++ + Arrays.toString(inhabitants));\n\n        while(!Arrays.equals(inhabitants, new int[8])){\n\n        int [] temp = Arrays.copyOf(inhabitants, inhabitants.length);\n\n        for(int i = 0; i < inhabitants.length; i++){\n\n            if(inhabitants[i] == 0){\n\n                if(i == 0){\n                    temp [i+1] = temp [i+1] /2;\n                }else if( i == inhabitants.length-1){\n                    temp[i - 1] = temp[i-1]/2;\n                }else{\n                    temp[i+1] = temp [i+1] /2;\n                    temp[i - 1] = temp[i-1]/2;\n                }\n            }\n        }\n            inhabitants = Arrays.copyOf(temp, temp.length);\n            System.out.println(\"Day: \" + days++ + Arrays.toString(inhabitants));\n\n        }\n        System.out.println(\"---- EXTINCT ----\");\n    }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/OfficeHourss/Practice_04_21_2021/ZombieAttack2.java b/OfficeHourss/Practice_04_21_2021/ZombieAttack2.java
+--- a/OfficeHourss/Practice_04_21_2021/ZombieAttack2.java	(revision 2f40368232138836b4c24793130d00758d326e69)
++++ b/OfficeHourss/Practice_04_21_2021/ZombieAttack2.java	(date 1622597335274)
+@@ -1,6 +1,6 @@
+ package OfficeHourss.Practice_04_21_2021;
+ 
+-
++import com.sun.corba.se.impl.naming.namingutil.INSURLHandler;
+ 
+ import java.util.Arrays;
+ 
+Index: day_43_list_custom_classes/Employee.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package day_43_list_custom_classes;\n\n\n\npublic class Employee {\n    // instance/ object variables\n    String name;\n    String jobTitle;\n\n    // instance/method\n    public void work(){\n        System.out.println(name + \" works as \" + jobTitle);\n    }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/day_43_list_custom_classes/Employee.java b/day_43_list_custom_classes/Employee.java
+--- a/day_43_list_custom_classes/Employee.java	(revision 2f40368232138836b4c24793130d00758d326e69)
++++ b/day_43_list_custom_classes/Employee.java	(date 1622597335237)
+@@ -1,6 +1,6 @@
+ package day_43_list_custom_classes;
+ 
+-
++import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
+ 
+ public class Employee {
+     // instance/ object variables
+Index: day_32_array_split/ShoppingItems.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package day_32_array_split;\n\n\n\npublic class ShoppingItems {\n    public static void main(String[] args) {\n        String[] items  = {\"Shoes\", \"Jacket\",\"Gloves\", \"Airpods\", \"iPad\", \"iphone 12 case\" };\n        double[] prices = {99.99, 150.0, 9.99, 250.0 , 439.50, 39.99};\n        int[] itemIDs =   {12345 , 12346, 12347, 12348, 12349, 12350};\n        System.out.println(\"------- FIND INDEX OF 'GLOVES' in items array --------\" );\n        for(int i = 0; i < items.length; i++){\n            if(items[i].equalsIgnoreCase(\"Gloves\")){\n                System.out.println(\"index of Gloves = \" + i);\n                break;\n            }\n        }\n        System.out.println(\"----- Set boolean to true if iPad is found ------\");\n        boolean iPadExits = false;\n\n        for(String item : items){\n            if(item.equalsIgnoreCase(\"iPad\")){\n                iPadExits = true;\n                break;\n            }\n        }\n        System.out.println(\"iPadExits \" + iPadExits);\n        if(iPadExits){\n            System.out.println(\"We bought the iPad\");\n        }else{\n            System.out.println(\"We forgot the iPad\");\n        }\n        System.out.println(\"Print a report for each shopping item\");\n        for(int i = 0;i< items.length;i++){\n            System.out.println(items[i]+ \" - $\"+prices[i]+\" - #\"+itemIDs[i]);\n\n\n        }\n        System.out.println(\"===== Look for Jacket =====\");\n        for(int i = 0; i < items.length; i++){\n            if(items[i].equalsIgnoreCase(\"Jacket\")){\n                System.out.println(items[i]+ \" - $\"+prices[i]+\" - #\"+itemIDs[i]);\n                break;\n            }\n        }\n        System.out.println(\"===== Look for Airpods =====\");\n        for(int i = 0; i < items.length; i++){\n            if(items[i].equalsIgnoreCase(\"Airpods\")){\n                System.out.println(items[i]+ \"- $\"+prices[i]+\" - #\"+ itemIDs[i]);\n                break;\n            }\n        }\n    }\n\n\n    }\n\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/day_32_array_split/ShoppingItems.java b/day_32_array_split/ShoppingItems.java
+--- a/day_32_array_split/ShoppingItems.java	(revision 2f40368232138836b4c24793130d00758d326e69)
++++ b/day_32_array_split/ShoppingItems.java	(date 1622597335287)
+@@ -1,6 +1,6 @@
+ package day_32_array_split;
+ 
+-
++import com.sun.deploy.panel.ITreeNode;
+ 
+ public class ShoppingItems {
+     public static void main(String[] args) {
+Index: day_40_arraylist/ArrayListExample.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package day_40_arraylist;\n\nimport java.util.ArrayList;\nimport java.util.List;\n\npublic class ArrayListExample {\n\n    public void add(int num) {\n        System.out.println(\"adding = \" + num);\n    }\n    public static void main(String[] args) {\n        ArrayList<Integer> nums = new ArrayList<>();\n        //ArrayList<String> words = new ArrayList<>();\n        nums.add(5);\n        nums.add(7);\n        nums.add(11);\n        //words.add(\"java\");\n        System.out.println(\"size = \" + nums.size());\n        //System.out.println(\"size = \" + words.size());\n        System.out.println(\"index 0 = \" + nums.get(0));\n        System.out.println(\"index 1 = \" + nums.get(1));\n        System.out.println(\"index 2 = \" + nums.get(2));\n        System.out.println(nums);\n\n        nums.remove(1);\n        System.out.println(nums);\n\n\n    }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/day_40_arraylist/ArrayListExample.java b/day_40_arraylist/ArrayListExample.java
+--- a/day_40_arraylist/ArrayListExample.java	(revision 2f40368232138836b4c24793130d00758d326e69)
++++ b/day_40_arraylist/ArrayListExample.java	(date 1622597335294)
+@@ -4,10 +4,6 @@
+ import java.util.List;
+ 
+ public class ArrayListExample {
+-
+-    public void add(int num) {
+-        System.out.println("adding = " + num);
+-    }
+     public static void main(String[] args) {
+         ArrayList<Integer> nums = new ArrayList<>();
+         //ArrayList<String> words = new ArrayList<>();
+Index: OfficeHourss/Practice_05_25_2021/Pangram.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package OfficeHourss.Practice_05_25_2021;\n\n\n\nimport java.util.Arrays;\nimport java.util.Locale;\n\npublic class Pangram {\n\n    public static void main(String[] args) {\n\n        String s = \"A quick brown fox jumps over the lazy dog.\";\n        // char [] a = s.replace(\" \", \"\").toLowerCase(Locale.ROOT).toCharArray();\n        //Arrays.sort(a);\n       //System.out.println(Arrays.toString(a));\n        System.out.println(isPangram(s));\n    }\n    public static boolean isPangram (String str) {\n        str = str.toLowerCase();\n        String alp = \"abcdefghijklmnopqrstuvwxyz\";\n\n        for (int i = 0; i < str.length(); i++) {\n\n            if(Character.isLetter(str.charAt(i))) {\n                alp = alp.replace(\"\" + str.charAt(i), \"\");\n                System.out.println(str.charAt(i) + \" \" + alp);\n            }\n            if(alp.isEmpty()) {\n                break;\n            }\n\n\n        }\n\n        return alp.isEmpty();\n    }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/OfficeHourss/Practice_05_25_2021/Pangram.java b/OfficeHourss/Practice_05_25_2021/Pangram.java
+--- a/OfficeHourss/Practice_05_25_2021/Pangram.java	(revision 2f40368232138836b4c24793130d00758d326e69)
++++ b/OfficeHourss/Practice_05_25_2021/Pangram.java	(date 1622597335303)
+@@ -1,6 +1,6 @@
+ package OfficeHourss.Practice_05_25_2021;
+ 
+-
++import sun.util.resources.cldr.ga.CurrencyNames_ga;
+ 
+ import java.util.Arrays;
+ import java.util.Locale;
+Index: untitled.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/untitled.iml b/.idea/src.iml
+rename from untitled.iml
+rename to .idea/src.iml
+--- a/untitled.iml	(revision 2f40368232138836b4c24793130d00758d326e69)
++++ b/.idea/src.iml	(date 1622596717976)
+@@ -2,9 +2,7 @@
+ <module type="JAVA_MODULE" version="4">
+   <component name="NewModuleRootManager" inherit-compiler-output="true">
+     <exclude-output />
+-    <content url="file://$MODULE_DIR$">
+-      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+-    </content>
++    <content url="file://$MODULE_DIR$" />
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
