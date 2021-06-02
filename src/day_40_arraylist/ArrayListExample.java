@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ArrayListExample {
+
+    public void add(int num) {
+        System.out.println("adding = " + num);
+    }
     public static void main(String[] args) {
         ArrayList<Integer> nums = new ArrayList<>();
         //ArrayList<String> words = new ArrayList<>();
