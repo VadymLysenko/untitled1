@@ -24,5 +24,7 @@ public class InheritanceTest {
         st1.talk();
         st1.walk();
         st1.work(" as bosss");
+        st1.school = "CybertekSchool";
+        st1.study("Java programming inheritance");
     }
 }
