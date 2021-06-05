@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day_50_inheritance/StaticBlockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_50_inheritance/StaticBlockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OfficeHourss/Practice_04_21_2021/ZombieAttack2.java" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeHourss/Practice_04_21_2021/ZombieAttack2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OfficeHourss/Practice_05_25_2021/Pangram.java" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeHourss/Practice_05_25_2021/Pangram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_32_array_split/ShoppingItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_32_array_split/ShoppingItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_39_wrapper_classes/AutoboxingUnBoxing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_39_wrapper_classes/ParseString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_39_wrapper_classes/WrapperClassMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_39_wrapper_classes/WrapperClasses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_43_list_custom_classes/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_43_list_custom_classes/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_49_static/StaticMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/untitled.iml" beforeDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="Revert &quot;added more classes and packages&quot;&#10;&#10;This reverts commit 2f403682">
+      <change beforePath="$PROJECT_DIR$/day_50_inheritance/StaticBlockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_50_inheritance/StaticBlockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_50_inheritance/StaticBlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_50_inheritance/StaticBlockTest.java" afterDir="false" />
     </list>
     <list id="150b34c4-26c2-4a56-9a98-76fc5c08caaa" name="Revert &quot;added more classes and packages&quot;" comment="Revert &quot;added more classes and packages&quot;&#10;&#10;This reverts commit 2f403682" />
     <option name="SHOW_DIALOG" value="false" />
