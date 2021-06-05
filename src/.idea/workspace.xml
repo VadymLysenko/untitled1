@@ -84,13 +84,13 @@
       <recent name="$PROJECT_DIR$/day_47_constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InheritanceTest">
-    <configuration name="CoffeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_45_oop.CoffeeTest" />
+  <component name="RunManager" selected="Application.BookObjects">
+    <configuration name="BookObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_50_inheritance.BookObjects" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_45_oop.*" />
+          <option name="PATTERN" value="day_50_inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookObjects" />
         <item itemvalue="Application.InheritanceTest" />
         <item itemvalue="Application.StaticBlockTest" />
         <item itemvalue="Application.CybertekGroups" />
         <item itemvalue="Application.Pangram" />
-        <item itemvalue="Application.CoffeeTest" />
       </list>
     </recent_temporary>
   </component>
