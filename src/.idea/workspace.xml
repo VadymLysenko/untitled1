@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new student extended class">
-      <change afterPath="$PROJECT_DIR$/day_50_inheritance/AudioBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_50_inheritance/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_50_inheritance/BookObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_50_inheritance/EBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_50_inheritance/overriding/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_50_inheritance/overriding/AnimalObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_50_inheritance/overriding/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_50_inheritance/overriding/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_50_inheritance/InheritanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_50_inheritance/InheritanceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_50_inheritance/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_50_inheritance/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_50_inheritance/BookObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_50_inheritance/BookObjects.java" afterDir="false" />
     </list>
     <list id="150b34c4-26c2-4a56-9a98-76fc5c08caaa" name="Revert &quot;added more classes and packages&quot;" comment="Revert &quot;added more classes and packages&quot;&#10;&#10;This reverts commit 2f403682" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +90,7 @@
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_50_inheritance.*" />
+          <option name="PATTERN" value="day_50_inheritance.Book" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,7 +116,7 @@
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_50_inheritance.*" />
+          <option name="PATTERN" value="day_50_inheritance.Book" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,7 +142,7 @@
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_50_inheritance.*" />
+          <option name="PATTERN" value="day_50_inheritance.Book" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,6 +183,7 @@
       <workItem from="1622591906366" duration="3040000" />
       <workItem from="1622596146029" duration="39000" />
       <workItem from="1622920504097" duration="18000" />
+      <workItem from="1622922102065" duration="2614000" />
     </task>
     <task id="LOCAL-00001" summary="added new class StaticMethods">
       <created>1622591083809</created>
@@ -254,7 +255,21 @@
       <option name="project" value="LOCAL" />
       <updated>1622918489330</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added bookobject class">
+      <created>1622922239534</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1622922239535</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added bookobject class">
+      <created>1622922361784</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1622922361784</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,6 +298,7 @@
     <MESSAGE value="added new class Teacher and Person" />
     <MESSAGE value="added extend method" />
     <MESSAGE value="added new student extended class" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new student extended class" />
+    <MESSAGE value="added bookobject class" />
+    <option name="LAST_COMMIT_MESSAGE" value="added bookobject class" />
   </component>
 </project>
