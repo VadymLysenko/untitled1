@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="Revert &quot;added more classes and packages&quot;&#10;&#10;This reverts commit 2f403682">
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new static block classes">
       <change beforePath="$PROJECT_DIR$/day_50_inheritance/StaticBlockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_50_inheritance/StaticBlockDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day_50_inheritance/StaticBlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_50_inheritance/StaticBlockTest.java" afterDir="false" />
     </list>
@@ -193,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622597858387</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added new static block classes">
+      <created>1622908160844</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622908160844</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +224,7 @@
     <MESSAGE value="added java classes" />
     <MESSAGE value="fixup! added more classes and packages" />
     <MESSAGE value="Revert &quot;added more classes and packages&quot;&#10;&#10;This reverts commit 2f403682" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;added more classes and packages&quot;&#10;&#10;This reverts commit 2f403682" />
+    <MESSAGE value="added new static block classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new static block classes" />
   </component>
 </project>

@@ -17,4 +17,8 @@ public class StaticBlockDemo {
         System.out.println("Constructor method");
         num += 5;
     }
+    public StaticBlockDemo(int value) {
+        System.out.println("Overloaded constructor - value = " + value);
+        num += value;
+    }
 }

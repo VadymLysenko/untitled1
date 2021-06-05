@@ -8,6 +8,8 @@ public class StaticBlockTest {
         StaticBlockDemo st2 = new StaticBlockDemo(); // constructor
         StaticBlockDemo st3 = new StaticBlockDemo(); // constructor
         System.out.println(StaticBlockDemo.num);
+        StaticBlockDemo st4 = new StaticBlockDemo(50);
+        System.out.println(StaticBlockDemo.num);
     }
 
 }
