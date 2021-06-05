@@ -4,6 +4,10 @@ import java.util.Arrays;
 import java.util.List;
 
 public class StaticBlockDemo {
+    public static class Inner {
+        // variable and methods of inner static class
+    }
+
     static int num;
     static List<String> carModels;
     static {
@@ -12,6 +16,7 @@ public class StaticBlockDemo {
         //carModels.add("");
         //carModels.addAll(Arrays.asList(""));
     }
+
     public StaticBlockDemo() {
 
         System.out.println("Constructor method");
