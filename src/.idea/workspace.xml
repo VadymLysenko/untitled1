@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new class Teacher and Person">
-      <change afterPath="$PROJECT_DIR$/day_50_inheritance/InheritanceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_50_inheritance/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_50_inheritance/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_50_inheritance/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_50_inheritance/Teacher.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added extend method">
+      <change afterPath="$PROJECT_DIR$/day_50_inheritance/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_50_inheritance/InheritanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_50_inheritance/InheritanceTest.java" afterDir="false" />
     </list>
     <list id="150b34c4-26c2-4a56-9a98-76fc5c08caaa" name="Revert &quot;added more classes and packages&quot;" comment="Revert &quot;added more classes and packages&quot;&#10;&#10;This reverts commit 2f403682" />
     <option name="SHOW_DIALOG" value="false" />
@@ -222,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622912013767</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added extend method">
+      <created>1622917973478</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622917973478</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +254,7 @@
     <MESSAGE value="added new static block classes" />
     <MESSAGE value="added method with int value" />
     <MESSAGE value="added new class Teacher and Person" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new class Teacher and Person" />
+    <MESSAGE value="added extend method" />
+    <option name="LAST_COMMIT_MESSAGE" value="added extend method" />
   </component>
 </project>

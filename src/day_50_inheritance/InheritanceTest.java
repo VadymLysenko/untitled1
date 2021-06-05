@@ -17,5 +17,12 @@ public class InheritanceTest {
         t1.walk();
         t1.work(" as Director");
         t1.teach("java inheritance");
+
+        Student st1 = new Student();
+        st1.name = " George";
+        st1.age = 15;
+        st1.talk();
+        st1.walk();
+        st1.work(" as bosss");
     }
 }
