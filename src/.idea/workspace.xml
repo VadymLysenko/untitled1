@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new student extended class">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_50_inheritance/overriding/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_50_inheritance/overriding/AnimalObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_50_inheritance/overriding/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_50_inheritance/overriding/Dog.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day_51_inheritance/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_50_inheritance/BookObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_50_inheritance/BookObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_50_inheritance/StaticBlockDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_50_inheritance/StaticBlockTest.java" beforeDir="false" />
     </list>
     <list id="150b34c4-26c2-4a56-9a98-76fc5c08caaa" name="Revert &quot;added more classes and packages&quot;" comment="Revert &quot;added more classes and packages&quot;&#10;&#10;This reverts commit 2f403682" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +29,7 @@
         <entry key="$PROJECT_DIR$/JavaProject" value="master" />
       </map>
     </option>
-    <option name="RECENT_COMMON_BRANCH" value="day49_static" />
+    <option name="RECENT_COMMON_BRANCH" value="master" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
@@ -46,6 +43,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/day_37_methods_overloading/methodsWithOverloading.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1tMp0ANFNDpcLePahGmqiFPiuow" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -85,6 +85,17 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.BookObjects">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BookObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_50_inheritance.BookObjects" />
       <module name="src" />
@@ -146,17 +157,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
