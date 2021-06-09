@@ -1,6 +1,6 @@
 package day_51_inheritance;
 
-public class Employee {
+public class Employee extends Object { // this is grandParent for all java classes
     String jobTitle;
 
     public double calculateSalary(double hourlyRate) {

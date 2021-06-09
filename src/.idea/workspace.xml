@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added EmployeeObjects class">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_51_inheritance/Contractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_51_inheritance/Contractor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_51_inheritance/EmployeeObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_51_inheritance/EmployeeObjects.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added override method">
+      <change beforePath="$PROJECT_DIR$/day_51_inheritance/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_51_inheritance/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -288,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623196908540</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="added override method">
+      <created>1623198511188</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1623198511188</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,6 +326,7 @@
     <MESSAGE value="added new package day 51" />
     <MESSAGE value="added new class contractor" />
     <MESSAGE value="added EmployeeObjects class" />
-    <option name="LAST_COMMIT_MESSAGE" value="added EmployeeObjects class" />
+    <MESSAGE value="added override method" />
+    <option name="LAST_COMMIT_MESSAGE" value="added override method" />
   </component>
 </project>

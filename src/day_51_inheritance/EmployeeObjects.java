@@ -13,5 +13,6 @@ public class EmployeeObjects {
         Contractor sdetContractor = new Contractor();
         double sdetSalary = sdetContractor.calculateSalary(53);
         System.out.println("sdetSalary = " + sdetSalary);
+
     }
 }
