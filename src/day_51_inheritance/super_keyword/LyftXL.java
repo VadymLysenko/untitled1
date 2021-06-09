@@ -1,7 +1,10 @@
 package day_51_inheritance.super_keyword;
 
-public class Lyft {
+public class LyftXL extends Lyft{
+
+    @Override
     public double calculateRate(double miles) {
-        return miles * 4.50;
+        return super.calculateRate(miles)*1.1;
     }
+
 }

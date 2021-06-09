@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added override method to contractor class">
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new supPackage">
+      <change afterPath="$PROJECT_DIR$/day_51_inheritance/super_keyword/Lux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_51_inheritance/super_keyword/LyftRides.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_51_inheritance/super_keyword/LyftXL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_51_inheritance/super_keyword/Lyft.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_51_inheritance/super_keyword/Lyft.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +84,7 @@
       <recent name="$PROJECT_DIR$/day_47_constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmployeeObjects">
+  <component name="RunManager" selected="Application.LyftRides">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -98,19 +102,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day_50_inheritance.Book" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CybertekGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_48_constructors_static.CybertekGroups" />
-      <module name="src" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_48_constructors_static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,6 +135,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LyftRides" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_51_inheritance.super_keyword.LyftRides" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_51_inheritance.super_keyword.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StaticBlockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_50_inheritance.StaticBlockTest" />
       <module name="src" />
@@ -159,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LyftRides" />
         <item itemvalue="Application.EmployeeObjects" />
         <item itemvalue="Application.BookObjects" />
         <item itemvalue="Application.InheritanceTest" />
         <item itemvalue="Application.StaticBlockTest" />
-        <item itemvalue="Application.CybertekGroups" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623199942911</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="added new supPackage">
+      <created>1623201738831</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1623201738831</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,6 +353,18 @@
     <MESSAGE value="added EmployeeObjects class" />
     <MESSAGE value="added override method" />
     <MESSAGE value="added override method to contractor class" />
-    <option name="LAST_COMMIT_MESSAGE" value="added override method to contractor class" />
+    <MESSAGE value="added new supPackage" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new supPackage" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day_51_inheritance/super_keyword/LyftRides.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
