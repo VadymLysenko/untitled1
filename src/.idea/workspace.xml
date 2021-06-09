@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new class contractor">
-      <change afterPath="$PROJECT_DIR$/day_51_inheritance/EmployeeObjects.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added EmployeeObjects class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_51_inheritance/Contractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_51_inheritance/Contractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_51_inheritance/EmployeeObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_51_inheritance/EmployeeObjects.java" afterDir="false" />
     </list>
-    <list id="150b34c4-26c2-4a56-9a98-76fc5c08caaa" name="Revert &quot;added more classes and packages&quot;" comment="Revert &quot;added more classes and packages&quot;&#10;&#10;This reverts commit 2f403682" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +27,7 @@
         <entry key="$PROJECT_DIR$/JavaProject" value="master" />
       </map>
     </option>
-    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="RECENT_COMMON_BRANCH" value="day_51_inheritance" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
@@ -281,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623196186725</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added EmployeeObjects class">
+      <created>1623196908540</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1623196908540</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,6 +320,7 @@
     <MESSAGE value="added bookobject class" />
     <MESSAGE value="added new package day 51" />
     <MESSAGE value="added new class contractor" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new class contractor" />
+    <MESSAGE value="added EmployeeObjects class" />
+    <option name="LAST_COMMIT_MESSAGE" value="added EmployeeObjects class" />
   </component>
 </project>

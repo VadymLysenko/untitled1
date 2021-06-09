@@ -9,5 +9,9 @@ public class EmployeeObjects {
                 + developer.calculateSalary(55.0));
         double annualDevSalary = developer.calculateSalary(55.0);
         System.out.println("annualDevSalary = " + Math.round(annualDevSalary));
+
+        Contractor sdetContractor = new Contractor();
+        double sdetSalary = sdetContractor.calculateSalary(53);
+        System.out.println("sdetSalary = " + sdetSalary);
     }
 }
