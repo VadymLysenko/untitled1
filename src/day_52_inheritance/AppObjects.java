@@ -7,6 +7,11 @@ public class AppObjects {
         mobileApp.useTheApp(10);
 
         Instagram instagram = new Instagram();
+        instagram.name = "Instagram";
         instagram.useTheApp(20);
+
+        Discord discord = new Discord();
+        discord.name = "Discord";
+        discord.useTheApp(90);
     }
 }

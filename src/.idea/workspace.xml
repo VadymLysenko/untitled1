@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new package and 3 classes">
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new class main method to print">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_52_inheritance/AppObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_52_inheritance/AppObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_52_inheritance/Discord.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_52_inheritance/Discord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day_52_inheritance/Instagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_52_inheritance/Instagram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -333,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623512660986</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="added new class main method to print">
+      <created>1623515405634</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1623515405634</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,6 +380,7 @@
     <MESSAGE value="added new supPackage" />
     <MESSAGE value="added new classes Lyft" />
     <MESSAGE value="added new package and 3 classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new package and 3 classes" />
+    <MESSAGE value="added new class main method to print" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new class main method to print" />
   </component>
 </project>
