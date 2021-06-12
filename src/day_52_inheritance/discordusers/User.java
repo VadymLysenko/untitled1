@@ -5,6 +5,15 @@ public class User {
     private String name;
     private int id;
 
+    @Override
+    public String toString() {
+        return "User{" +
+                "role='" + role + '\'' +
+                ", name='" + name + '\'' +
+                ", id=" + id +
+                '}';
+    }
+
     public String getRole() {
         return role;
     }

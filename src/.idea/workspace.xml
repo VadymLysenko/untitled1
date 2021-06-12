@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added getter and setter methods">
-      <change afterPath="$PROJECT_DIR$/day_52_inheritance/discordusers/User.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new subPackage and 1st class">
+      <change afterPath="$PROJECT_DIR$/day_52_inheritance/discordusers/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_52_inheritance/discordusers/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_52_inheritance/discordusers/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -353,7 +355,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623526802024</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="added new subPackage and 1st class">
+      <created>1623527169023</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1623527169023</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,6 +403,7 @@
     <MESSAGE value="added new class main method to print" />
     <MESSAGE value="added" />
     <MESSAGE value="added getter and setter methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="added getter and setter methods" />
+    <MESSAGE value="added new subPackage and 1st class" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new subPackage and 1st class" />
   </component>
 </project>
