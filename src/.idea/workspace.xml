@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new class main method to print">
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new subPackage and 1st class">
+      <change afterPath="$PROJECT_DIR$/day_52_inheritance/discordusers/Admin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_52_inheritance/AppObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_52_inheritance/AppObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_52_inheritance/Discord.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_52_inheritance/Discord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_52_inheritance/Instagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_52_inheritance/Instagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_52_inheritance/discordusers/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_52_inheritance/discordusers/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -342,7 +341,28 @@
       <option name="project" value="LOCAL" />
       <updated>1623515405634</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="added">
+      <created>1623522103414</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1623522103414</updated>
+    </task>
+    <task id="LOCAL-00024" summary="added getter and setter methods">
+      <created>1623526802024</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1623526802024</updated>
+    </task>
+    <task id="LOCAL-00025" summary="added new subPackage and 1st class">
+      <created>1623527169023</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1623527169023</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,6 +401,9 @@
     <MESSAGE value="added new classes Lyft" />
     <MESSAGE value="added new package and 3 classes" />
     <MESSAGE value="added new class main method to print" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new class main method to print" />
+    <MESSAGE value="added" />
+    <MESSAGE value="added getter and setter methods" />
+    <MESSAGE value="added new subPackage and 1st class" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new subPackage and 1st class" />
   </component>
 </project>
