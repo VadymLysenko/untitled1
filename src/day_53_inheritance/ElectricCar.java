@@ -11,14 +11,14 @@ public class ElectricCar{
 
 
     public ElectricCar(String make, String model, double price, int year, int range) {
-        this.make=make; // reusing code in the setter
+        this.make = make; // reusing code in the setter
         this.model = model;
         this.price = price;
         this.year = year;
         this.range = range;
         count++;
     }
-    
+
 
     public static int getCount() {
         return count;

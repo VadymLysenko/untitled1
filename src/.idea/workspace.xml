@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added Roadster.java and called super constructor">
-      <change afterPath="$PROJECT_DIR$/day_53_inheritance/ModelX.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new subClass ModelX">
+      <change afterPath="$PROJECT_DIR$/day_53_inheritance/hiding/Phone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_53_inheritance/CarObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_53_inheritance/CarObjects.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day_53_inheritance/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_53_inheritance/ElectricCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_53_inheritance/Roadster.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_53_inheritance/Roadster.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -406,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623600519903</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="added new subClass ModelX">
+      <created>1623603042573</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1623603042573</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,7 +430,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Revert &quot;added more classes and packages&quot;&#10;&#10;This reverts commit 2f403682" />
     <MESSAGE value="added new static block classes" />
     <MESSAGE value="added method with int value" />
     <MESSAGE value="added new class Teacher and Person" />
@@ -450,6 +454,7 @@
     <MESSAGE value="added getter and setter toString and constructor" />
     <MESSAGE value="added instantiated to carObjects" />
     <MESSAGE value="added Roadster.java and called super constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Roadster.java and called super constructor" />
+    <MESSAGE value="added new subClass ModelX" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new subClass ModelX" />
   </component>
 </project>
