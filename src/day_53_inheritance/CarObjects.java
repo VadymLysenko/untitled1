@@ -12,10 +12,16 @@ public class CarObjects {
         System.out.println("ec1 year = " + ec1.getYear());
         System.out.println("ec1 range = " + ec1.getRange());
 
-        if(ec1.getPrice() > 100000) {
+        if(ec1.getPrice() > 10000) {
             System.out.println(ec1.getMake() + " - " + ec1.getModel() + " is out of my budget");
         }else{
             System.out.println("purchasing " + ec1.toString());
         }
+        System.out.println(ElectricCar.getCount());
+
+        ElectricCar ec2 = new ElectricCar("Tesla","CyberTruck",59900,2022,300);
+        System.out.println(ec2.toString());
+        System.out.println("Count = " + ElectricCar.getCount());
+
     }
 }
