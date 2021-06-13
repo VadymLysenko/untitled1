@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new classes">
-      <change afterPath="$PROJECT_DIR$/day_53_inheritance/ElectricCar.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new package day 53 and class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_53_inheritance/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_53_inheritance/ElectricCar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -375,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623529794017</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="added new package day 53 and class">
+      <created>1623595243361</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1623595243361</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,7 +401,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added new class StaticMethods" />
     <MESSAGE value="added more classes and packages" />
     <MESSAGE value="added java classes" />
     <MESSAGE value="fixup! added more classes and packages" />
@@ -419,6 +425,7 @@
     <MESSAGE value="added new subPackage and 1st class" />
     <MESSAGE value="added toString method" />
     <MESSAGE value="added new classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new classes" />
+    <MESSAGE value="added new package day 53 and class" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new package day 53 and class" />
   </component>
 </project>
