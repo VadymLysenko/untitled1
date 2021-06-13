@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new subClass ModelX">
-      <change afterPath="$PROJECT_DIR$/day_53_inheritance/hiding/Phone.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new package and 1st class">
+      <change afterPath="$PROJECT_DIR$/day_53_inheritance/hiding/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_53_inheritance/hiding/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_53_inheritance/hiding/PhoneTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_53_inheritance/hiding/final_keyword/FinalRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_53_inheritance/hiding/final_keyword/TestData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_53_inheritance/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_53_inheritance/ElectricCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_53_inheritance/hiding/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_53_inheritance/hiding/Phone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +90,7 @@
       <recent name="$PROJECT_DIR$/day_47_constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarObjects">
+  <component name="RunManager" selected="Application.FinalRunner">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -94,19 +98,6 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_52_inheritance.AppObjects" />
-      <module name="src" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_52_inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -137,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LyftRides" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_51_inheritance.super_keyword.LyftRides" />
+    <configuration name="FinalRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_53_inheritance.hiding.final_keyword.FinalRunner" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_51_inheritance.super_keyword.*" />
+          <option name="PATTERN" value="day_53_inheritance.hiding.final_keyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +141,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_51_inheritance.super_keyword.testing" />
+    <configuration name="PhoneTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_53_inheritance.hiding.PhoneTests" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_51_inheritance.super_keyword.*" />
+          <option name="PATTERN" value="day_53_inheritance.hiding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_53_inheritance.hiding.Runner" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_53_inheritance.hiding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FinalRunner" />
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.PhoneTests" />
         <item itemvalue="Application.CarObjects" />
         <item itemvalue="Application.B22DiscordServer" />
-        <item itemvalue="Application.AppObjects" />
-        <item itemvalue="Application.LyftRides" />
-        <item itemvalue="Application.testing" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623603042573</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="added new package and 1st class">
+      <created>1623608998543</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1623608998543</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -430,7 +441,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added new static block classes" />
     <MESSAGE value="added method with int value" />
     <MESSAGE value="added new class Teacher and Person" />
     <MESSAGE value="added extend method" />
@@ -455,6 +465,7 @@
     <MESSAGE value="added instantiated to carObjects" />
     <MESSAGE value="added Roadster.java and called super constructor" />
     <MESSAGE value="added new subClass ModelX" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new subClass ModelX" />
+    <MESSAGE value="added new package and 1st class" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new package and 1st class" />
   </component>
 </project>
