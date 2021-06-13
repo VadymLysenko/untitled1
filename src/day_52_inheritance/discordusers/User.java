@@ -5,6 +5,13 @@ public class User {
     private String name;
     private int id;
 
+    public User() {
+        System.out.println("User class constructor");
+    }
+
+
+
+
     @Override
     public String toString() {
         return "User{" +

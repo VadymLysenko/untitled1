@@ -14,5 +14,7 @@ public class B22DiscordServer {
 
         System.out.println(user1);
         System.out.println(admin1);
+
+
     }
 }
