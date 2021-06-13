@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new package day 53 and class">
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added getter and setter toString and constructor">
+      <change afterPath="$PROJECT_DIR$/day_53_inheritance/CarObjects.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day_53_inheritance/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_53_inheritance/ElectricCar.java" afterDir="false" />
     </list>
@@ -85,7 +86,7 @@
       <recent name="$PROJECT_DIR$/day_47_constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B22DiscordServer">
+  <component name="RunManager" selected="Application.CarObjects">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -123,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_51_inheritance.EmployeeObjects" />
+    <configuration name="CarObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_53_inheritance.CarObjects" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_51_inheritance.*" />
+          <option name="PATTERN" value="day_53_inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarObjects" />
         <item itemvalue="Application.B22DiscordServer" />
         <item itemvalue="Application.AppObjects" />
         <item itemvalue="Application.LyftRides" />
         <item itemvalue="Application.testing" />
-        <item itemvalue="Application.EmployeeObjects" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623595243361</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="added getter and setter toString and constructor">
+      <created>1623596157919</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1623596157919</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -401,7 +409,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added more classes and packages" />
     <MESSAGE value="added java classes" />
     <MESSAGE value="fixup! added more classes and packages" />
     <MESSAGE value="Revert &quot;added more classes and packages&quot;&#10;&#10;This reverts commit 2f403682" />
@@ -426,6 +433,7 @@
     <MESSAGE value="added toString method" />
     <MESSAGE value="added new classes" />
     <MESSAGE value="added new package day 53 and class" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new package day 53 and class" />
+    <MESSAGE value="added getter and setter toString and constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="added getter and setter toString and constructor" />
   </component>
 </project>

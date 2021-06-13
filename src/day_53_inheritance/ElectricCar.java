@@ -1,6 +1,6 @@
 package day_53_inheritance;
 
-public class ElectricCar {
+public class ElectricCar{
     private String make;
     private String model;
     private double price;
@@ -8,7 +8,7 @@ public class ElectricCar {
     private int range;
 
     public ElectricCar(String make, String model, double price, int year, int range) {
-        setMake(make); // reusing code in the setter
+        this.make=make; // reusing code in the setter
         this.model = model;
         this.price = price;
         this.year = year;
