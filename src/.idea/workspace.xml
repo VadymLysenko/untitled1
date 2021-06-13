@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new subPackage and 1st class">
-      <change afterPath="$PROJECT_DIR$/day_52_inheritance/discordusers/Admin.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new classes">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_52_inheritance/discordusers/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_52_inheritance/discordusers/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_52_inheritance/discordusers/B22DiscordServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_52_inheritance/discordusers/B22DiscordServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day_52_inheritance/discordusers/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_52_inheritance/discordusers/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +88,7 @@
       <recent name="$PROJECT_DIR$/day_47_constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AppObjects">
+  <component name="RunManager" selected="Application.B22DiscordServer">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -111,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_50_inheritance.BookObjects" />
+    <configuration name="B22DiscordServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_52_inheritance.discordusers.B22DiscordServer" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_50_inheritance.Book" />
+          <option name="PATTERN" value="day_52_inheritance.discordusers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B22DiscordServer" />
         <item itemvalue="Application.AppObjects" />
         <item itemvalue="Application.LyftRides" />
         <item itemvalue="Application.testing" />
         <item itemvalue="Application.EmployeeObjects" />
-        <item itemvalue="Application.BookObjects" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +364,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623527169023</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="added toString method">
+      <created>1623528106222</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1623528106222</updated>
+    </task>
+    <task id="LOCAL-00027" summary="added new classes">
+      <created>1623529794016</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1623529794017</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,6 +420,8 @@
     <MESSAGE value="added" />
     <MESSAGE value="added getter and setter methods" />
     <MESSAGE value="added new subPackage and 1st class" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new subPackage and 1st class" />
+    <MESSAGE value="added toString method" />
+    <MESSAGE value="added new classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new classes" />
   </component>
 </project>

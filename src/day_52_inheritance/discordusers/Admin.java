@@ -6,6 +6,6 @@ public class Admin extends User {
         return "Admin{" +
                 "role='" + getRole() + '\'' +
                 "'name='" + getName() + '\'' +
-                        "'id=" + getId() + '}';
+                "'id=" + getId() + '}';
     }
 }
