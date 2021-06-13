@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added getter and setter toString and constructor">
-      <change afterPath="$PROJECT_DIR$/day_53_inheritance/CarObjects.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added instantiated to carObjects">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_53_inheritance/CarObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_53_inheritance/CarObjects.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day_53_inheritance/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_53_inheritance/ElectricCar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -390,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623596157919</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="added instantiated to carObjects">
+      <created>1623597207151</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1623597207151</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,7 +416,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added java classes" />
     <MESSAGE value="fixup! added more classes and packages" />
     <MESSAGE value="Revert &quot;added more classes and packages&quot;&#10;&#10;This reverts commit 2f403682" />
     <MESSAGE value="added new static block classes" />
@@ -434,6 +440,7 @@
     <MESSAGE value="added new classes" />
     <MESSAGE value="added new package day 53 and class" />
     <MESSAGE value="added getter and setter toString and constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="added getter and setter toString and constructor" />
+    <MESSAGE value="added instantiated to carObjects" />
+    <option name="LAST_COMMIT_MESSAGE" value="added instantiated to carObjects" />
   </component>
 </project>
