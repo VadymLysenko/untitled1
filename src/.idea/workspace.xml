@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new package and class Email">
-      <change afterPath="$PROJECT_DIR$/OfficeHourss/Practice_06_15_2021/Gmail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OfficeHourss/Practice_06_15_2021/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeHourss/Practice_06_15_2021/Email.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new class Gmail">
+      <change afterPath="$PROJECT_DIR$/OfficeHourss/Practice_06_15_2021/EmailObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OfficeHourss/Practice_06_15_2021/Yahoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeHourss/Practice_06_15_2021/Gmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeHourss/Practice_06_15_2021/Gmail.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,7 @@
       <recent name="$PROJECT_DIR$/day_47_constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FinalRunner">
+  <component name="RunManager" selected="Application.EmailObjects">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B22DiscordServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_52_inheritance.discordusers.B22DiscordServer" />
+    <configuration name="CarObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_53_inheritance.CarObjects" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_52_inheritance.discordusers.*" />
+          <option name="PATTERN" value="day_53_inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_53_inheritance.CarObjects" />
+    <configuration name="EmailObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHourss.Practice_06_15_2021.EmailObjects" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_53_inheritance.*" />
+          <option name="PATTERN" value="OfficeHourss.Practice_06_15_2021.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmailObjects" />
         <item itemvalue="Application.FinalRunner" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.PhoneTests" />
         <item itemvalue="Application.CarObjects" />
-        <item itemvalue="Application.B22DiscordServer" />
       </list>
     </recent_temporary>
   </component>
@@ -432,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623793556575</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="added new class Gmail">
+      <created>1623794182617</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1623794182617</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,7 +458,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added extend method" />
     <MESSAGE value="added new student extended class" />
     <MESSAGE value="added bookobject class" />
     <MESSAGE value="added new package day 51" />
@@ -476,6 +482,7 @@
     <MESSAGE value="added new package and 1st class" />
     <MESSAGE value="added new package and class final and FinalRunner" />
     <MESSAGE value="added new package and class Email" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new package and class Email" />
+    <MESSAGE value="added new class Gmail" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new class Gmail" />
   </component>
 </project>
