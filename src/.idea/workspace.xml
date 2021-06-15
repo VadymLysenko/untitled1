@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new class Gmail">
-      <change afterPath="$PROJECT_DIR$/OfficeHourss/Practice_06_15_2021/EmailObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OfficeHourss/Practice_06_15_2021/Yahoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeHourss/Practice_06_15_2021/EmailObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeHourss/Practice_06_15_2021/EmailObjects.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OfficeHourss/Practice_06_15_2021/Gmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeHourss/Practice_06_15_2021/Gmail.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +27,7 @@
         <entry key="$PROJECT_DIR$/JavaProject" value="master" />
       </map>
     </option>
-    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="RECENT_COMMON_BRANCH" value="day_53_inheritance" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_53_inheritance.CarObjects" />
+    <configuration name="B22DiscordServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_52_inheritance.discordusers.B22DiscordServer" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_53_inheritance.*" />
+          <option name="PATTERN" value="day_52_inheritance.discordusers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_53_inheritance.hiding.final_keyword.FinalRunner" />
+    <configuration name="EmployeeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_51_inheritance.EmployeeObjects" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_53_inheritance.hiding.final_keyword.*" />
+          <option name="PATTERN" value="day_51_inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_53_inheritance.hiding.PhoneTests" />
+    <configuration name="LyftRides" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_51_inheritance.super_keyword.LyftRides" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_53_inheritance.hiding.*" />
+          <option name="PATTERN" value="day_51_inheritance.super_keyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_53_inheritance.hiding.Runner" />
+    <configuration name="testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_51_inheritance.super_keyword.testing" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_53_inheritance.hiding.*" />
+          <option name="PATTERN" value="day_51_inheritance.super_keyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,10 +166,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.EmailObjects" />
-        <item itemvalue="Application.FinalRunner" />
-        <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.PhoneTests" />
-        <item itemvalue="Application.CarObjects" />
+        <item itemvalue="Application.testing" />
+        <item itemvalue="Application.LyftRides" />
+        <item itemvalue="Application.EmployeeObjects" />
+        <item itemvalue="Application.B22DiscordServer" />
       </list>
     </recent_temporary>
   </component>
