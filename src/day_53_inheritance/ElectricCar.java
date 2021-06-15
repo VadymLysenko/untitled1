@@ -6,6 +6,7 @@ public class ElectricCar{
     private double price;
     private int year;
     private int range;
+    private int MAX_RANGE;
     private static int count; // all objects will share this variable
 
 
@@ -17,6 +18,10 @@ public class ElectricCar{
         this.year = year;
         this.range = range;
         count++;
+    }
+    public final void charge() {
+        System.out.println("Electric car need charge");
+        this.range = MAX_RANGE;
     }
 
 
