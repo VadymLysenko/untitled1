@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new package and class final and FinalRunner">
-      <change afterPath="$PROJECT_DIR$/OfficeHourss/Practice_06_15_2021/Email.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new package and class Email">
+      <change afterPath="$PROJECT_DIR$/OfficeHourss/Practice_06_15_2021/Gmail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_53_inheritance/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_53_inheritance/ElectricCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfficeHourss/Practice_06_15_2021/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/OfficeHourss/Practice_06_15_2021/Email.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -425,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623617966824</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="added new package and class Email">
+      <created>1623793556575</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1623793556575</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -444,7 +451,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added new class Teacher and Person" />
     <MESSAGE value="added extend method" />
     <MESSAGE value="added new student extended class" />
     <MESSAGE value="added bookobject class" />
@@ -469,6 +475,7 @@
     <MESSAGE value="added new subClass ModelX" />
     <MESSAGE value="added new package and 1st class" />
     <MESSAGE value="added new package and class final and FinalRunner" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new package and class final and FinalRunner" />
+    <MESSAGE value="added new package and class Email" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new package and class Email" />
   </component>
 </project>

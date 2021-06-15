@@ -9,6 +9,16 @@ public class Email {
         domain = "generic";
     }
     public Email (String address, int numberOfEmail) {
+    this.ADDRESS = address;
+    this.numberOfEmail = numberOfEmail;
+    }
 
+    @Override
+    public String toString() {
+        return "Email{" +
+                "ADDRESS='" + ADDRESS + '\'' +
+                ", numberOfEmail=" + numberOfEmail +
+                ", domain=" + domain +
+                '}';
     }
 }
