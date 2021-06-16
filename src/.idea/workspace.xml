@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added new package and abstract classes">
-      <change afterPath="$PROJECT_DIR$/day_54_abstraction/CampusStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_54_abstraction/OnlineStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_54_abstraction/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_54_abstraction/Student.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added abstract new classes">
+      <change afterPath="$PROJECT_DIR$/day_54_abstraction/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_54_abstraction/MenuObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_54_abstraction/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_54_abstraction/Salad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_54_abstraction/MyAbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_54_abstraction/MyAbstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_47_constructors/StudentObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_47_constructors/StudentObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_50_inheritance/InheritanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_50_inheritance/InheritanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_54_abstraction/OnlineStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_54_abstraction/OnlineStudent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +91,7 @@
       <recent name="$PROJECT_DIR$/day_47_constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.School">
+  <component name="RunManager" selected="Application.MenuObjects">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -107,6 +109,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="OfficeHourss.Practice_06_15_2021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_54_abstraction.MenuObjects" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_54_abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,26 +168,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_51_inheritance.super_keyword.testing" />
-      <module name="src" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_51_inheritance.super_keyword.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MenuObjects" />
         <item itemvalue="Application.School" />
         <item itemvalue="Application.StudentObjects" />
         <item itemvalue="Application.MyObjects" />
         <item itemvalue="Application.EmailObjects" />
-        <item itemvalue="Application.testing" />
       </list>
     </recent_temporary>
   </component>
@@ -456,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623801144353</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="added abstract new classes">
+      <created>1623807555182</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1623807555182</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,7 +484,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added new package day 51" />
     <MESSAGE value="added new class contractor" />
     <MESSAGE value="added EmployeeObjects class" />
     <MESSAGE value="added override method" />
@@ -500,6 +508,7 @@
     <MESSAGE value="added new class Gmail" />
     <MESSAGE value="added domain to all emails" />
     <MESSAGE value="added new package and abstract classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new package and abstract classes" />
+    <MESSAGE value="added abstract new classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added abstract new classes" />
   </component>
 </project>

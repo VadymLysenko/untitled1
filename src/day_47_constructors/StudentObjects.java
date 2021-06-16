@@ -1,4 +1,4 @@
-package day_47_constructors;
+/*package day_47_constructors;
 
 public class StudentObjects {
 
@@ -16,3 +16,4 @@ public class StudentObjects {
 
     }
 }
+*/

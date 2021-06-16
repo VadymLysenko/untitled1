@@ -1,4 +1,4 @@
-package day_50_inheritance;
+/*package day_50_inheritance;
 
 public class InheritanceTest {
     public static void main(String[] args) {
@@ -27,4 +27,5 @@ public class InheritanceTest {
         st1.school = "CybertekSchool";
         st1.study("Java programming inheritance");
     }
-}
+    //
+ */
