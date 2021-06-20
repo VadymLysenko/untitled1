@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="- create for our classes">
+      <change afterPath="$PROJECT_DIR$/day_55_abstraction/flags/Flag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_55_abstraction/flags/FlagDrawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_55_abstraction/flags/Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_55_abstraction/flags/RussianFlag.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +88,7 @@
       <recent name="$PROJECT_DIR$/day_47_constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AtTheGym">
+  <component name="RunManager" selected="Application.FlagDrawing">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -109,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_54_abstraction.MenuObjects" />
+    <configuration name="FlagDrawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_55_abstraction.flags.FlagDrawing" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_54_abstraction.*" />
+          <option name="PATTERN" value="day_55_abstraction.flags.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlagDrawing" />
         <item itemvalue="Application.AtTheGym" />
         <item itemvalue="Application.StudentObjects" />
         <item itemvalue="Application.School" />
         <item itemvalue="Application.MyObjects" />
-        <item itemvalue="Application.MenuObjects" />
       </list>
     </recent_temporary>
   </component>
@@ -479,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624208679359</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="- create for our classes">
+      <created>1624212954568</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1624212954568</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
