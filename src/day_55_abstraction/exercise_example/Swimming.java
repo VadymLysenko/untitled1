@@ -1,10 +1,9 @@
 package day_55_abstraction.exercise_example;
 
-public  class Running extends Exercise {
+public class Swimming extends Exercise{
     @Override
     public void perform() {
-        System.out.println("Performing Running exercise");
-
+        System.out.println("Perform Swimming exercise");
     }
 
     @Override
