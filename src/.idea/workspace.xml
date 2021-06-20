@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="- Flag drawing abstraction practice">
-      <change afterPath="$PROJECT_DIR$/day_55_abstraction/interface_demo/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_55_abstraction/interface_demo/ChromeDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_55_abstraction/interface_demo/FirefoxDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_55_abstraction/interface_demo/WebDriver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -43,7 +45,12 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/day_55_abstraction/exercise_example/Exercise.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day_55_abstraction/exercise_example/Running.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day_37_methods_overloading/methodsWithOverloading.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day_55_abstraction/exercise_example/Swimming.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day_55_abstraction/exercise_example/FreeWeight.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day_55_abstraction/exercise_example/Lifting.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1tMp0ANFNDpcLePahGmqiFPiuow" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -495,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624214857157</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="new sub package interfaces intro">
+      <created>1624219649318</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1624219649318</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -514,7 +528,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added override method to contractor class" />
     <MESSAGE value="added new supPackage" />
     <MESSAGE value="added new classes Lyft" />
     <MESSAGE value="added new package and 3 classes" />
@@ -539,6 +552,7 @@
     <MESSAGE value="day 55 abstract class practice" />
     <MESSAGE value="- create for our classes" />
     <MESSAGE value="- Flag drawing abstraction practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Flag drawing abstraction practice" />
+    <MESSAGE value="new sub package interfaces intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="new sub package interfaces intro" />
   </component>
 </project>
