@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="day 55 abstract class practice">
-      <change afterPath="$PROJECT_DIR$/day_55_abstraction/exercise_example/AtTheGym.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="- create for our classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -473,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624204848613</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="- create for our classes">
+      <created>1624208679359</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1624208679359</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,7 +498,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added EmployeeObjects class" />
     <MESSAGE value="added override method" />
     <MESSAGE value="added override method to contractor class" />
     <MESSAGE value="added new supPackage" />
@@ -517,6 +522,7 @@
     <MESSAGE value="added new package and abstract classes" />
     <MESSAGE value="added abstract new classes" />
     <MESSAGE value="day 55 abstract class practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 55 abstract class practice" />
+    <MESSAGE value="- create for our classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="- create for our classes" />
   </component>
 </project>
