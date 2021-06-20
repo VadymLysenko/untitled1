@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added abstract new classes">
-      <change afterPath="$PROJECT_DIR$/day_55_abstraction/exercise_example/Swimming.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="day 55 abstract class practice">
+      <change afterPath="$PROJECT_DIR$/day_55_abstraction/exercise_example/FreeWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_55_abstraction/exercise_example/Lifting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_55_abstraction/exercise_example/Running.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_55_abstraction/exercise_example/Running.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_55_abstraction/exercise_example/Swimming.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_55_abstraction/exercise_example/Swimming.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -467,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624204328665</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="day 55 abstract class practice">
+      <created>1624204848613</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1624204848613</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

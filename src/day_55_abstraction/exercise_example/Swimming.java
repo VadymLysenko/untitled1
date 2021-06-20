@@ -8,6 +8,6 @@ public class Swimming extends Exercise{
 
     @Override
     public int getCaloriesCount(int minutes) {
-        return minutes * 13;
+        return minutes * 11;
     }
 }
