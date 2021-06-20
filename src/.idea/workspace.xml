@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="- Flag drawing abstraction practice">
-      <change afterPath="$PROJECT_DIR$/day_55_abstraction/interface_demo/ChromeDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_55_abstraction/interface_demo/FirefoxDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_55_abstraction/interface_demo/WebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_55_abstraction/interface_demo/DriverObjects.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +91,7 @@
       <recent name="$PROJECT_DIR$/day_47_constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FlagDrawing">
+  <component name="RunManager" selected="Application.DriverObjects">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -105,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AtTheGym" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_55_abstraction.exercise_example.AtTheGym" />
+    <configuration name="DriverObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_55_abstraction.interface_demo.DriverObjects" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_55_abstraction.exercise_example.*" />
+          <option name="PATTERN" value="day_55_abstraction.interface_demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DriverObjects" />
         <item itemvalue="Application.StudentObjects" />
         <item itemvalue="Application.School" />
         <item itemvalue="Application.MyObjects" />
         <item itemvalue="Application.FlagDrawing" />
-        <item itemvalue="Application.AtTheGym" />
       </list>
     </recent_temporary>
   </component>
