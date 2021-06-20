@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="- Flag drawing abstraction practice">
-      <change afterPath="$PROJECT_DIR$/day_55_abstraction/flags/FrenchFlag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_55_abstraction/flags/UkrainianFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_55_abstraction/interface_demo/MyInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_55_abstraction/flags/FlagDrawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_55_abstraction/flags/FlagDrawing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -28,7 +27,7 @@
         <entry key="$PROJECT_DIR$/JavaProject" value="master" />
       </map>
     </option>
-    <option name="RECENT_COMMON_BRANCH" value="day_55_abstraction" />
+    <option name="RECENT_COMMON_BRANCH" value="master" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
@@ -166,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FlagDrawing" />
-        <item itemvalue="Application.AtTheGym" />
         <item itemvalue="Application.StudentObjects" />
         <item itemvalue="Application.School" />
         <item itemvalue="Application.MyObjects" />
+        <item itemvalue="Application.FlagDrawing" />
+        <item itemvalue="Application.AtTheGym" />
       </list>
     </recent_temporary>
   </component>
