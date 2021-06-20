@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="day 55 abstract class practice">
-      <change afterPath="$PROJECT_DIR$/day_55_abstraction/exercise_example/FreeWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_55_abstraction/exercise_example/Lifting.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="- create for our classes">
+      <change afterPath="$PROJECT_DIR$/day_55_abstraction/flags/Flag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_55_abstraction/flags/FlagDrawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_55_abstraction/flags/Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_55_abstraction/flags/RussianFlag.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_55_abstraction/exercise_example/Swimming.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_55_abstraction/exercise_example/Swimming.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +88,7 @@
       <recent name="$PROJECT_DIR$/day_47_constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MenuObjects">
+  <component name="RunManager" selected="Application.FlagDrawing">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -99,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmailObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OfficeHourss.Practice_06_15_2021.EmailObjects" />
+    <configuration name="AtTheGym" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_55_abstraction.exercise_example.AtTheGym" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OfficeHourss.Practice_06_15_2021.*" />
+          <option name="PATTERN" value="day_55_abstraction.exercise_example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_54_abstraction.MenuObjects" />
+    <configuration name="FlagDrawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_55_abstraction.flags.FlagDrawing" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_54_abstraction.*" />
+          <option name="PATTERN" value="day_55_abstraction.flags.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlagDrawing" />
+        <item itemvalue="Application.AtTheGym" />
         <item itemvalue="Application.StudentObjects" />
         <item itemvalue="Application.School" />
         <item itemvalue="Application.MyObjects" />
-        <item itemvalue="Application.MenuObjects" />
-        <item itemvalue="Application.EmailObjects" />
       </list>
     </recent_temporary>
   </component>
@@ -475,7 +476,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624204848613</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="- create for our classes">
+      <created>1624208679359</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1624208679359</updated>
+    </task>
+    <task id="LOCAL-00043" summary="- create for our classes">
+      <created>1624212954568</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1624212954568</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,7 +509,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added EmployeeObjects class" />
     <MESSAGE value="added override method" />
     <MESSAGE value="added override method to contractor class" />
     <MESSAGE value="added new supPackage" />
@@ -519,6 +533,7 @@
     <MESSAGE value="added new package and abstract classes" />
     <MESSAGE value="added abstract new classes" />
     <MESSAGE value="day 55 abstract class practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 55 abstract class practice" />
+    <MESSAGE value="- create for our classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="- create for our classes" />
   </component>
 </project>
