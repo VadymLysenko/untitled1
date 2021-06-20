@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="added abstract new classes">
-      <change afterPath="$PROJECT_DIR$/day_54_abstraction/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_54_abstraction/MenuObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_54_abstraction/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_54_abstraction/Salad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_55_abstraction/exercise_example/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_55_abstraction/exercise_example/Running.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_47_constructors/StudentObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_47_constructors/StudentObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_50_inheritance/InheritanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_50_inheritance/InheritanceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_54_abstraction/OnlineStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_54_abstraction/OnlineStudent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
