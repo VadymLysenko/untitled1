@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="- Flag drawing abstraction practice">
-      <change afterPath="$PROJECT_DIR$/OfficeHourss/Practice_06_21_2021/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OfficeHourss/Practice_06_21_2021/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OfficeHourss/Practice_06_21_2021/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_56_abstraction/MountainLanguage.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="day 56 abstraction Greeting">
+      <change afterPath="$PROJECT_DIR$/day_56_abstraction/GreetingActions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_56_abstraction/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_56_abstraction/Greeting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,13 +87,16 @@
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="day_56_abstraction" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/.." />
       <recent name="$PROJECT_DIR$/day_46_encapsulation" />
       <recent name="$PROJECT_DIR$/day_47_constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C">
+  <component name="RunManager" selected="Application.GreetingActions">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -133,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_54_abstraction.MyObjects" />
+    <configuration name="GreetingActions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_56_abstraction.GreetingActions" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_54_abstraction.*" />
+          <option name="PATTERN" value="day_56_abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GreetingActions" />
         <item itemvalue="Application.C" />
         <item itemvalue="Application.DriverObjects" />
         <item itemvalue="Application.StudentObjects" />
         <item itemvalue="Application.School" />
-        <item itemvalue="Application.MyObjects" />
       </list>
     </recent_temporary>
   </component>
@@ -518,7 +519,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624223811013</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="practice">
+      <created>1624404459481</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1624404459481</updated>
+    </task>
+    <task id="LOCAL-00048" summary="day 56 abstraction Greeting">
+      <created>1624404491912</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1624404491912</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,8 +552,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added new classes Lyft" />
-    <MESSAGE value="added new package and 3 classes" />
     <MESSAGE value="added new class main method to print" />
     <MESSAGE value="added" />
     <MESSAGE value="added getter and setter methods" />
@@ -562,6 +575,8 @@
     <MESSAGE value="- Flag drawing abstraction practice" />
     <MESSAGE value="new sub package interfaces intro" />
     <MESSAGE value="- implemented the interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="- implemented the interface" />
+    <MESSAGE value="practice" />
+    <MESSAGE value="day 56 abstraction Greeting" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 56 abstraction Greeting" />
   </component>
 </project>
