@@ -1,6 +1,8 @@
-package day_56_abstraction;
+package day_56_abstraction.driveble;
 
-public class Tesla extends Transportation implements SelfDrivable{
+import day_56_abstraction.greeting.Greeting;
+
+public class Tesla extends Transportation implements SelfDrivable, Greeting {
     @Override
     public void transportPeople() {
         System.out.println("Tesla is transporting people on the roads");
@@ -14,5 +16,15 @@ public class Tesla extends Transportation implements SelfDrivable{
     @Override
     public void autoPiloting() {
         System.out.println("driving it self, and you can take a nap");
+    }
+
+    @Override
+    public void hi() {
+        System.out.println("Tesla is talking to you");
+    }
+
+    @Override
+    public void bye() {
+        System.out.println("You have arrived pls pay and go");
     }
 }

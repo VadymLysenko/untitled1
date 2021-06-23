@@ -1,4 +1,4 @@
-package day_56_abstraction;
+package day_56_abstraction.greeting;
 
 public class GreetingActions {
     public static void main(String[] args) {

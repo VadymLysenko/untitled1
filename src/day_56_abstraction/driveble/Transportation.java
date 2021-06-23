@@ -1,4 +1,4 @@
-package day_56_abstraction;
+package day_56_abstraction.driveble;
 
 public abstract class Transportation {
     public abstract void transportPeople();
