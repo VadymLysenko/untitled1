@@ -139,7 +139,7 @@
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_56_abstraction.*" />
+          <option name="PATTERN" value="day_56_abstraction.greeting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
