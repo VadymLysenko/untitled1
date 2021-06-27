@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="day 56 abstraction">
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day_57_abstraction_polymorphism/abstract_class_vs_interface/AbstractB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day_57_abstraction_polymorphism/abstract_class_vs_interface/AbstractA.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_57_abstraction_polymorphism/abstract_class_vs_interface/AbstractA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_57_abstraction_polymorphism/abstract_class_vs_interface/ConcreteA.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_57_abstraction_polymorphism/abstract_class_vs_interface/ConcreteA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day_57_abstraction_polymorphism/abstract_class_vs_interface/InterfaceA.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_57_abstraction_polymorphism/abstract_class_vs_interface/InterfaceA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_57_abstraction_polymorphism/abstract_class_vs_interface/InterfaceB.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_57_abstraction_polymorphism/abstract_class_vs_interface/InterfaceB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_57_abstraction_polymorphism/abstract_class_vs_interface/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_57_abstraction_polymorphism/abstract_class_vs_interface/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.JAVA" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -92,7 +93,7 @@
       <recent name="$PROJECT_DIR$/day_47_constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BonusCalculator">
+  <component name="RunManager" selected="Application.Runner">
     <configuration name="BonusCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_13_conditional_statements.BonusCalculator" />
       <module name="src" />
@@ -112,19 +113,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="OfficeHourss.Practice_06_21_2021.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DriverObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_55_abstraction.interface_demo.DriverObjects" />
-      <module name="src" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_55_abstraction.interface_demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,13 +146,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_57_abstraction_polymorphism.abstract_class_vs_interface.Runner" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_57_abstraction_polymorphism.abstract_class_vs_interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner" />
         <item itemvalue="Application.BonusCalculator" />
         <item itemvalue="Application.ReverseEachWord" />
         <item itemvalue="Application.GreetingActions" />
         <item itemvalue="Application.C" />
-        <item itemvalue="Application.DriverObjects" />
       </list>
     </recent_temporary>
   </component>
@@ -181,14 +195,7 @@
       <workItem from="1622596146029" duration="39000" />
       <workItem from="1622920504097" duration="18000" />
       <workItem from="1622922102065" duration="2614000" />
-      <workItem from="1624811720590" duration="323000" />
-    </task>
-    <task id="LOCAL-00002" summary="added more classes and packages">
-      <created>1622595936017</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1622595936017</updated>
+      <workItem from="1624811720590" duration="4844000" />
     </task>
     <task id="LOCAL-00003" summary="added java classes">
       <created>1622597626228</created>
@@ -526,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624413738942</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="day 57 abstraction interface">
+      <created>1624812109624</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1624812109625</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -545,7 +559,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added" />
     <MESSAGE value="added getter and setter methods" />
     <MESSAGE value="added new subPackage and 1st class" />
     <MESSAGE value="added toString method" />
@@ -570,6 +583,7 @@
     <MESSAGE value="practice" />
     <MESSAGE value="day 56 abstraction Greeting" />
     <MESSAGE value="day 56 abstraction" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 56 abstraction" />
+    <MESSAGE value="day 57 abstraction interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 57 abstraction interface" />
   </component>
 </project>

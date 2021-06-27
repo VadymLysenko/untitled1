@@ -6,5 +6,9 @@ public class Runner {
         AbstractA abstractA = new AbstractA(); //if using curly braces {} it's annonomous class
         InterfaceA interfaceA = new InterfaceA(); // we cannot create object
          */
+        InterfaceA.staticMethodE("wooden spoon");
+        //ConcreteA.staticMethodE("hello"); // only works with interface.staticMethodE
+        ConcreteA.staticMethodC();
+
     }
 }
