@@ -12,5 +12,7 @@ public class Casting {
 
         //this is downCasting from worker to SuperMan
         SuperMan superMan = (SuperMan) wr1;
+        superMan.feedKid();
+        superMan.work("java dev");
     }
 }

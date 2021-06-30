@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day_58_polymorphism/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_58_polymorphism/Amazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_58_polymorphism/OnlineShopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_58_polymorphism/Prime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_58_polymorphism/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_58_polymorphism/Casting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -191,13 +194,6 @@
       <workItem from="1622920504097" duration="18000" />
       <workItem from="1622922102065" duration="2614000" />
       <workItem from="1624811720590" duration="7694000" />
-    </task>
-    <task id="LOCAL-00006" summary="added new static block classes">
-      <created>1622908160844</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1622908160844</updated>
     </task>
     <task id="LOCAL-00007" summary="added method with int value">
       <created>1622908577623</created>
@@ -535,7 +531,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625014697394</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="day 58 polymorphism">
+      <created>1625017619704</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1625017619704</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
