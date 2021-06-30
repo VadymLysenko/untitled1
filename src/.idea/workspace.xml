@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day_58_polymorphism/Casting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_44_custom_classes/AnimalObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_44_custom_classes/AnimalObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_58_polymorphism/SuperManTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_58_polymorphism/SuperManTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +90,7 @@
       <recent name="$PROJECT_DIR$/day_47_constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SuperManTest">
+  <component name="RunManager" selected="Application.Casting">
     <configuration name="AnimalTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_57_polymorphism.AnimalTests" />
       <module name="src" />
@@ -118,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseEachWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OfficeHourss.Practice_04_19_2021.ReverseEachWord" />
+    <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_58_polymorphism.Casting" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OfficeHourss.Practice_04_19_2021.*" />
+          <option name="PATTERN" value="day_58_polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Casting" />
         <item itemvalue="Application.SuperManTest" />
         <item itemvalue="Application.AnimalTests" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.BonusCalculator" />
-        <item itemvalue="Application.ReverseEachWord" />
       </list>
     </recent_temporary>
   </component>
@@ -192,13 +191,6 @@
       <workItem from="1622920504097" duration="18000" />
       <workItem from="1622922102065" duration="2614000" />
       <workItem from="1624811720590" duration="7694000" />
-    </task>
-    <task id="LOCAL-00005" summary="Revert &quot;added more classes and packages&quot;&#10;&#10;This reverts commit 2f403682">
-      <created>1622597858387</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1622597858387</updated>
     </task>
     <task id="LOCAL-00006" summary="added new static block classes">
       <created>1622908160844</created>
@@ -536,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625014023028</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="day 58 polymorphism">
+      <created>1625014697394</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1625014697394</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
