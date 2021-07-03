@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="day 59 polymorphism">
-      <change afterPath="$PROJECT_DIR$/day_59_polymorphism_esceptions/ElementsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_59_polymorphism_esceptions/WebElementUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_59_polymorphism_esceptions/InterfaceOf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_59_polymorphism_esceptions/InputField.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_59_polymorphism_esceptions/InputField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_59_polymorphism_esceptions/ElementsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_59_polymorphism_esceptions/ElementsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_59_polymorphism_esceptions/WebElementUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_59_polymorphism_esceptions/WebElementUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +92,7 @@
       <recent name="$PROJECT_DIR$/day_47_constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ElementsTest">
+  <component name="RunManager" selected="Application.InterfaceOf">
     <configuration name="AnimalTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_57_polymorphism.AnimalTests" />
       <module name="src" />
@@ -106,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_58_polymorphism.Casting" />
+    <configuration name="ElementsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_59_polymorphism_esceptions.ElementsTest" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
@@ -121,6 +121,19 @@
     </configuration>
     <configuration name="ElementsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_59_polymorphism_esceptions.ElementsTest" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_59_polymorphism_esceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_59_polymorphism_esceptions.InterfaceOf" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
@@ -150,7 +163,7 @@
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_58_polymorphism.*" />
+          <option name="PATTERN" value="day_59_polymorphism_esceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ElementsTest" />
-        <item itemvalue="Application.Casting" />
+        <item itemvalue="Application.InterfaceOf" />
         <item itemvalue="Application.SuperManTest" />
-        <item itemvalue="Application.AnimalTests" />
         <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.ElementsTest" />
+        <item itemvalue="Application.AnimalTests" />
       </list>
     </recent_temporary>
   </component>

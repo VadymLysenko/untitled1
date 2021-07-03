@@ -22,5 +22,10 @@ public class ElementsTest {
         WebElementUtil.clickElement(loginLink);
         WebElementUtil.clickElement(username);
 
+        WebElement login = WebElementUtil.getLinkWithText("login");
+        login.click();
+
+
+
     }
 }
