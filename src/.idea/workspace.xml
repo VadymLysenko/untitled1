@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day_58_polymorphism/Amazon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_58_polymorphism/OnlineShopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_58_polymorphism/Prime.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="day 58 polymorphism">
+      <change afterPath="$PROJECT_DIR$/day_100_practice_my_own/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_100_practice_my_own/OddOrEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_100_practice_my_own/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_100_practice_my_own/Swap2Nums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_59_polymorphism_esceptions/InputField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_59_polymorphism_esceptions/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_59_polymorphism_esceptions/WebElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_58_polymorphism/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_58_polymorphism/Casting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -159,13 +162,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -583,5 +588,10 @@
     <MESSAGE value="day 57 abstraction interface" />
     <MESSAGE value="day 58 polymorphism" />
     <option name="LAST_COMMIT_MESSAGE" value="day 58 polymorphism" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/src$AmazonItem.ic" NAME="AmazonItem Coverage Results" MODIFIED="1625078190911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day_04_variables_intro.*</FILTER>
+    </SUITE>
   </component>
 </project>
