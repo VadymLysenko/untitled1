@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="day 60 exceptions">
-      <change afterPath="$PROJECT_DIR$/day_60_exceptions/FinallyBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_60_exceptions/ThrowingException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_60_exceptions/MultiCatchBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/day_60_exceptions/MultiCatchBlock.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +90,7 @@
       <recent name="$PROJECT_DIR$/day_47_constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FinallyBlock">
+  <component name="RunManager" selected="Application.ThrowingException">
     <configuration name="DaySelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_37_methods_overloading.DaySelector" />
       <module name="src" />
@@ -144,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwallowingException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_59_polymorphism_esceptions_handling.SwallowingException" />
+    <configuration name="ThrowingException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_60_exceptions.ThrowingException" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_59_polymorphism_esceptions_handling.*" />
+          <option name="PATTERN" value="day_60_exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThrowingException" />
         <item itemvalue="Application.FinallyBlock" />
         <item itemvalue="Application.MultiCatchBlock" />
         <item itemvalue="Application.StringIndexIssue" />
         <item itemvalue="Application.DaySelector" />
-        <item itemvalue="Application.SwallowingException" />
       </list>
     </recent_temporary>
   </component>
@@ -192,14 +191,7 @@
       <workItem from="1622920504097" duration="18000" />
       <workItem from="1622922102065" duration="2614000" />
       <workItem from="1624811720590" duration="7694000" />
-      <workItem from="1625579006851" duration="12006000" />
-    </task>
-    <task id="LOCAL-00009" summary="added extend method">
-      <created>1622917973478</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1622917973478</updated>
+      <workItem from="1625579006851" duration="12381000" />
     </task>
     <task id="LOCAL-00010" summary="added new student extended class">
       <created>1622918489330</created>
@@ -537,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625617518635</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="day 60 exceptions">
+      <created>1625623054458</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1625623054458</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
