@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="day 59 polymorphism">
-      <change afterPath="$PROJECT_DIR$/day_59_polymorphism_esceptions_handling/SwallowingException.java" afterDir="false" />
+    <list default="true" id="ee4d5bd8-f193-4e19-b65f-9fdc719b0bd5" name="Default Changelist" comment="exception">
+      <change afterPath="$PROJECT_DIR$/day_100_practice_my_own/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_100_practice_my_own/ReverseString1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_100_practice_my_own/ReverseString2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_60_exceptions/MultiCatchBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_60_exceptions/StringIndexIssue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +82,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="inlay.hints.JAVA" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -90,13 +94,13 @@
       <recent name="$PROJECT_DIR$/day_47_constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SwallowingException">
-    <configuration name="AnimalTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_57_polymorphism.AnimalTests" />
+  <component name="RunManager" selected="Application.StringIndexIssue">
+    <configuration name="CountLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHourss.Practice_05_03_2021.CountLetters" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_57_polymorphism.*" />
+          <option name="PATTERN" value="OfficeHourss.Practice_05_03_2021.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_58_polymorphism.Casting" />
+    <configuration name="DaySelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_37_methods_overloading.DaySelector" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_58_polymorphism.*" />
+          <option name="PATTERN" value="day_37_methods_overloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElementsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_59_polymorphism_esceptions.ElementsTest" />
+    <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_100_practice_my_own.LongestPalindrome" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_59_polymorphism_esceptions.*" />
+          <option name="PATTERN" value="day_100_practice_my_own.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuperManTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_58_polymorphism.SuperManTest" />
+    <configuration name="StringIndexIssue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_60_exceptions.StringIndexIssue" />
       <module name="src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_58_polymorphism.*" />
+          <option name="PATTERN" value="day_60_exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,26 +160,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringIndexIssue" />
+        <item itemvalue="Application.DaySelector" />
         <item itemvalue="Application.SwallowingException" />
-        <item itemvalue="Application.ElementsTest" />
-        <item itemvalue="Application.Casting" />
-        <item itemvalue="Application.SuperManTest" />
-        <item itemvalue="Application.AnimalTests" />
+        <item itemvalue="Application.LongestPalindrome" />
+        <item itemvalue="Application.CountLetters" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +195,7 @@
       <workItem from="1622920504097" duration="18000" />
       <workItem from="1622922102065" duration="2614000" />
       <workItem from="1624811720590" duration="7694000" />
+      <workItem from="1625579006851" duration="8267000" />
     </task>
     <task id="LOCAL-00008" summary="added new class Teacher and Person">
       <created>1622912013767</created>
@@ -556,7 +559,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added toString method" />
     <MESSAGE value="added new classes" />
     <MESSAGE value="added new package day 53 and class" />
     <MESSAGE value="added getter and setter toString and constructor" />
@@ -581,7 +583,8 @@
     <MESSAGE value="day 57 abstraction interface" />
     <MESSAGE value="day 58 polymorphism" />
     <MESSAGE value="day 59 polymorphism" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 59 polymorphism" />
+    <MESSAGE value="exception" />
+    <option name="LAST_COMMIT_MESSAGE" value="exception" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/src$AmazonItem.ic" NAME="AmazonItem Coverage Results" MODIFIED="1625078190911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
