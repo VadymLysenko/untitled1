@@ -1,7 +1,7 @@
 package day_61_execptions_collections;
 
-public class InsufficientBalanceException
-        extends RuntimeException  {
+public class InsufficientBalanceException extends RuntimeException  {
+
     public InsufficientBalanceException() {
     }
 
