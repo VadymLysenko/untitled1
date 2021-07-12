@@ -4,6 +4,7 @@ import java.lang.reflect.Array;
 
 public class Array_FindMaxNum {
 
+
     public int maxValue(int[] n) {
         int max = Integer.MIN_VALUE;
 
