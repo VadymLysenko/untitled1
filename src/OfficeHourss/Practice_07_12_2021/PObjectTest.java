@@ -15,8 +15,8 @@ public class PObjectTest {
         PB obj4 = new PB();
         obj4.go(); // now my object is PB which is on right side
         ((PA)obj4).go(); //polymorphism is basically what you have assign to it
-        
-        ((PI)obj4).math();
+
+
 
 
     }
