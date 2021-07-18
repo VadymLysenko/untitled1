@@ -48,6 +48,20 @@ public class SetExamples {
 
         System.out.println("linkedHashSet = " + linkedHashSet);
 
+        Set<String> treeSet = new TreeSet<>();
+        treeSet.add("24");
+        treeSet.add("java");
+        treeSet.add("$#");
+        treeSet.add("$^");
+        treeSet.add("$53");
+        treeSet.add("apple");
+        treeSet.add("apple");
+        treeSet.add("cucumber");
+
+        System.out.println("treeSet = " + treeSet);
+        //((TreeSet)treeSet).first(); // stores elements into natural order
+
+
 
     }
 }
