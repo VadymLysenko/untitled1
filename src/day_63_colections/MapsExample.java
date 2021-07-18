@@ -26,5 +26,20 @@ public class MapsExample {
         map.put(3,"Kinga");
         map.remove(100);
         System.out.println(map);
+        map.remove("Maxim");
+
+        System.out.println(map.containsKey(1));
+        System.out.println(map.containsValue("Anna"));
+
+        for(Integer key : map.keySet()){
+            System.out.println(key + " - " + map.get(key));
+
+            if(map.get(key).equals("Kinga")){
+                System.out.println("our key " + key);
+            }
+        }
+
+
+
     }
 }
