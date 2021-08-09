@@ -2,7 +2,7 @@ package day_100_practice_my_own;
 
 import java.util.Arrays;
 
-public class Fibonacci2 {
+public class Fibonaccii2 {
     public static void main(String[] args) {
         System.out.println(fib(8));
     }
